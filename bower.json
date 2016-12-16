@@ -1,0 +1,21 @@
+{
+  "name": "froala-test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Otavio Medeiros <otaviorm@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-froala": "2.4.0"
+  }
+}
